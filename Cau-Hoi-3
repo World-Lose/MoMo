@@ -1,28 +1,11 @@
 {
-    "text": """
-Vì liên quan đến chính sách của MoMo, nếu tài khoản MoMo không liên kết với tài khoản ngân hàng thì sẽ không sử dụng được.
-""",
-    "media": "data:image/png;base64,PGltZz4=",
-    "additional_text": """
-Lên mình cần bạn đăng ký hộ mình 1 tài khoản ngân hàng với SĐT mình gửi ví dụ "0123456789".
-Sau khi xong, bạn bắt đầu vào đăng ký tài khoản MoMo với cùng SDT vừa đăng ký TK ngân hàng là "0123456789".
-
-+) Tại ứng dụng MoMo, ngay sau khi bạn đã đăng nhập vào bằng SDT và OTP mình cũng cấp, ứng dụng sẽ yêu cầu bạn chụp ảnh CCCD.
-Nhưng bạn hãy click nút "x" trên cùng màn hình và bỏ qua.
-""",
-    "image": "PGltZz4=",
-    "additional_text_2": """
-Sau khi click "x" đóng tab chụp CCCD, tiếp đến các bạn sẽ vào mục "Tôi" ở dưới cùng bên phải của màn hình và chọn "Đăng Nhập và Bảo Mật", sau đó chọn Xác thực như ảnh.
-""",
-    "image_2": "PGltZz4=",
-    "additional_text_3": """
-Tại đây bạn sẽ bắt đầu chụp CCCD và cập nhật NFC giúp mình nhé!
-
-Sau khi xác thực xong, bạn đã hoàn thành đăng ký cho 1 sim.
-Tiền công của bạn là 250k/1 lần hoặc 1 triệu/3 lần.
-
-Nếu vẫn chưa hiểu, bạn có thể tham khảo video này nhé.
-""",
-    "video": "https://raw.githubusercontent.com/World-Lose/MoMo/raw/refs/heads/main/video_2025-03-15_17-04-29.mp4",
+    "text": "Vì liên quan đến chính sách của MoMo, nếu tài khoản MoMo không liên kết với tài khoản ngân hàng thì sẽ không sử dụng được.",
+    "media": "https://raw.githubusercontent.com/World-Lose/MoMo/refs/heads/main/lienketnganhang.png",  # Hình ảnh 1
+    "additional_text": "Lên mình cần bạn đăng ký hộ mình 1 tài khoản ngân hàng với SĐT mình gửi ví dụ '0123456789'.",
+    "image": "https://raw.githubusercontent.com/World-Lose/MoMo/refs/heads/main/x.png",  # Hình ảnh 2
+    "additional_text_2": "Sau khi click 'x' đóng tab chụp CCCD, tiếp đến các bạn sẽ vào mục 'Tôi' ở dưới cùng bên phải của màn hình và chọn 'Đăng Nhập và Bảo Mật'.",
+    "image_2": "https://raw.githubusercontent.com/World-Lose/MoMo/refs/heads/main/x.png",  # Hình ảnh 3
+    "additional_text_3": "Tại đây bạn sẽ bắt đầu chụp CCCD và cập nhật NFC giúp mình nhé!",
+    "video": "https://raw.githubusercontent.com/World-Lose/MoMo/raw/refs/heads/main/video_2025-03-15_17-04-29.mp4",  # Video
     "additional_text_4": ""
 }
