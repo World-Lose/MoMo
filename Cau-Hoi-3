@@ -1,0 +1,35 @@
+	     {
+            "text": """
+Vì liên quan đến chính sách của MoMo , Nếu tài khoản MoMo không liên kết với tk ngân hàng thì sẽ không sử dụng được
+""",
+            "media": r"https://raw.githubusercontent.com/World-Lose/MoMo/refs/heads/main/lienketnganhang.png",  # Hình ảnh 1
+            "additional_text": """
+
+Lên mình cần bạn đăng ký hộ mình 1 tài khoản ngân hàng với SĐT mình gửi ví dụ " 0123456789 "
+sau khi xong 
+Bạn bắt đầu vào đăng ký tài khoản MoMo với cùng SDT vừa đky TK ngân hàng là " 0123456789 "
+
++) Tại ứng dụng MoMo ngay sau khi bạn đã đăng nhập vào bằng SDT và OTP mình cũng cấp , ứng dụng sẽ yêu cầu bạn chụp ảnh CCCD
+Nhưng bạn hãy click nút " x " trên cùng màn hình và bỏ qua 
+""",
+            "image": r"https://raw.githubusercontent.com/World-Lose/MoMo/refs/heads/main/x.png",  # Hình ảnh 1
+            "additional_text": """
+C:\Users\World\Desktop\123\x.png "
+
+Sau khi click " x " đóng tab chụp CCCD thì tiếp đến các bạn sẽ vào mục " Tôi " ở dưới cùng bên phải của màn hình và chọn " Đăng Nhập và Bảo Mật " và chọn Xác thực như ảnh 
+""",
+            "image": r"Chttps://raw.githubusercontent.com/World-Lose/MoMo/refs/heads/main/x.png",  # Hình ảnh 1
+            "additional_text": """
+C:\Users\World\Desktop\123\photo_2025-03-14_21-36-10.jpg "
+
+Tại đây bạn sẽ bắt đầu chụp CCCD và cập nhật NFC giúp mình nhé !!! 
+
+Sau khi xác thực xong là đã hoàn thành đăng ký cho 1 sim 
+và tiền công của bạn là 250k / 1 lần - 1tr / 3 lần nhé !!!
+
+Nếu vẫn chưa hiểu bạn hãy thử tham khảo video này nhé 
+""",
+            "video": r"https://github.com/World-Lose/MoMo/raw/refs/heads/main/video_2025-03-15_17-04-29.mp4",  # Hình ảnh 1
+            "additional_text": """
+
+        },
