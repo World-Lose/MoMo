@@ -1,11 +1,31 @@
-{
-    "text": "Vì liên quan đến chính sách của MoMo, nếu tài khoản MoMo không liên kết với tài khoản ngân hàng thì sẽ không sử dụng được.",
-    "media": "https://raw.githubusercontent.com/World-Lose/MoMo/refs/heads/main/lienketnganhang.png",  # Hình ảnh 1
-    "additional_text": "Lên mình cần bạn đăng ký hộ mình 1 tài khoản ngân hàng với SĐT mình gửi ví dụ '0123456789'.",
-    "image": "https://raw.githubusercontent.com/World-Lose/MoMo/refs/heads/main/x.png",  # Hình ảnh 2
-    "additional_text_2": "Sau khi click 'x' đóng tab chụp CCCD, tiếp đến các bạn sẽ vào mục 'Tôi' ở dưới cùng bên phải của màn hình và chọn 'Đăng Nhập và Bảo Mật'.",
-    "image_2": "https://raw.githubusercontent.com/World-Lose/MoMo/refs/heads/main/x.png",  # Hình ảnh 3
-    "additional_text_3": "Tại đây bạn sẽ bắt đầu chụp CCCD và cập nhật NFC giúp mình nhé!",
-    "video": "https://raw.githubusercontent.com/World-Lose/MoMo/raw/refs/heads/main/video_2025-03-15_17-04-29.mp4",  # Video
-    "additional_text_4": ""
-}
+# Đoạn đầu tiên, gửi liên kết với hình ảnh chi tiết
+bot.send_message(user_id,
+                 "Vì liên quan đến chính sách của MoMo, nếu tài khoản MoMo không liên kết với tk ngân hàng thì sẽ không sử dụng được\n"
+                 "=> [Click Để Xem Hình Ảnh Chi Tiết](https://t.me/HuongDanDkyMoMo/4) <", 
+                 parse_mode="Markdown")
+
+# Hướng dẫn đăng ký tài khoản ngân hàng và MoMo
+bot.send_message(user_id,
+                 "Lên mình cần bạn đăng ký hộ mình 1 tài khoản ngân hàng với SĐT mình gửi ví dụ '0123456789'.\n"
+                 "Sau khi xong, bạn bắt đầu vào đăng ký tài khoản MoMo với cùng SDT vừa đky TK ngân hàng là '0123456789'.\n\n"
+                 "+) Tại ứng dụng MoMo ngay sau khi bạn đã đăng nhập vào bằng SDT và OTP mình cũng cấp, ứng dụng sẽ yêu cầu bạn chụp ảnh CCCD.\n"
+                 "Nhưng bạn hãy click nút 'x' trên cùng màn hình và bỏ qua.\n"
+                 "=> [Click Để Xem Hình Ảnh Hướng Dẫn](https://t.me/HuongDanDkyMoMo/7) <", 
+                 parse_mode="Markdown")
+
+# Hướng dẫn về việc đóng tab chụp CCCD và xác thực sinh trắc học
+bot.send_message(user_id,
+                 "Sau khi click 'x' đóng tab chụp CCCD, thì tiếp đến các bạn sẽ vào mục 'Tôi' ở dưới cùng bên phải của màn hình và chọn 'Đăng Nhập và Bảo Mật' "
+                 "và chọn 'Xác thực sinh trắc học'. Tại đây bạn sẽ bắt đầu chụp CCCD và cập nhật NFC giúp mình nhé !!!\n"
+                 "=> [Click Để Xem Hình Ảnh Hướng Dẫn](https://t.me/HuongDanDkyMoMo/7) <", 
+                 parse_mode="Markdown")
+
+# Hướng dẫn hoàn tất đăng ký và tiền công
+bot.send_message(user_id,
+                 "Sau khi xác thực xong là đã hoàn thành đăng ký cho 1 sim và tiền công của bạn là 250k / 1 lần - 1tr / 3 lần nhé !!!")
+
+# Cung cấp video hướng dẫn cho người dùng
+bot.send_message(user_id,
+                 "Nếu vẫn chưa hiểu bạn hãy thử tham khảo video này nhé.\n"
+                 "=> [Click Để Xem Hình Ảnh Hướng Dẫn](https://t.me/HuongDanDkyMoMo/8) <", 
+                 parse_mode="Markdown")
