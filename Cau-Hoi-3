@@ -1,7 +1,6 @@
-# Đoạn đầu tiên, gửi liên kết với hình ảnh chi tiết
 bot.send_message(user_id,
                  "Vì liên quan đến chính sách của MoMo, nếu tài khoản MoMo không liên kết với tk ngân hàng thì sẽ không sử dụng được\n"
-                 "=> [Click Để Xem Hình Ảnh Chi Tiết](https://t.me/HuongDanDkyMoMo/4) <", 
+                 "=> [Click Để Xem Hình Ảnh Chi Tiết](https://t.me/HuongDanDkyMoMo/4)", 
                  parse_mode="Markdown")
 
 # Hướng dẫn đăng ký tài khoản ngân hàng và MoMo
@@ -10,14 +9,14 @@ bot.send_message(user_id,
                  "Sau khi xong, bạn bắt đầu vào đăng ký tài khoản MoMo với cùng SDT vừa đky TK ngân hàng là '0123456789'.\n\n"
                  "+) Tại ứng dụng MoMo ngay sau khi bạn đã đăng nhập vào bằng SDT và OTP mình cũng cấp, ứng dụng sẽ yêu cầu bạn chụp ảnh CCCD.\n"
                  "Nhưng bạn hãy click nút 'x' trên cùng màn hình và bỏ qua.\n"
-                 "=> [Click Để Xem Hình Ảnh Hướng Dẫn](https://t.me/HuongDanDkyMoMo/7) <", 
+                 "=> [Click Để Xem Hình Ảnh Hướng Dẫn](https://t.me/HuongDanDkyMoMo/7)", 
                  parse_mode="Markdown")
 
 # Hướng dẫn về việc đóng tab chụp CCCD và xác thực sinh trắc học
 bot.send_message(user_id,
                  "Sau khi click 'x' đóng tab chụp CCCD, thì tiếp đến các bạn sẽ vào mục 'Tôi' ở dưới cùng bên phải của màn hình và chọn 'Đăng Nhập và Bảo Mật' "
                  "và chọn 'Xác thực sinh trắc học'. Tại đây bạn sẽ bắt đầu chụp CCCD và cập nhật NFC giúp mình nhé !!!\n"
-                 "=> [Click Để Xem Hình Ảnh Hướng Dẫn](https://t.me/HuongDanDkyMoMo/7) <", 
+                 "=> [Click Để Xem Hình Ảnh Hướng Dẫn](https://t.me/HuongDanDkyMoMo/7)", 
                  parse_mode="Markdown")
 
 # Hướng dẫn hoàn tất đăng ký và tiền công
@@ -27,5 +26,5 @@ bot.send_message(user_id,
 # Cung cấp video hướng dẫn cho người dùng
 bot.send_message(user_id,
                  "Nếu vẫn chưa hiểu bạn hãy thử tham khảo video này nhé.\n"
-                 "=> [Click Để Xem Hình Ảnh Hướng Dẫn](https://t.me/HuongDanDkyMoMo/8) <", 
+                 "=> [Click Để Xem Hình Ảnh Hướng Dẫn](https://t.me/HuongDanDkyMoMo/8)", 
                  parse_mode="Markdown")
